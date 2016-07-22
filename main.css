@@ -1,0 +1,54 @@
+.cancha{
+	width: 800px;
+	height: 450px;
+	background-color: green;
+}
+.borde{
+	border: 1px solid white;
+	width:750px;
+	height: 400px;
+	left: 20px;
+	top: 20px;
+	position: relative;
+}
+.norte{
+	border:1px solid white;
+	width:100px;
+	height: 180px;
+	left: 0px;
+	top: 110px;
+	position: absolute;
+}
+.sur{
+	border:1px solid white;
+	width:100px;
+	height: 180px;
+	left: 650px;
+	top: 110px;
+	position: absolute;
+
+}
+.centro{
+	border:1px solid white;
+	border-radius: 100px;
+	width:180px;
+	height: 180px;
+	left: 290px;
+	top: 110px;
+	position: absolute;
+}
+.bola1{
+	position: absolute;
+	left: 90px;
+	top: 115px;
+}
+.bola2{
+	position: absolute;
+	left: 390px;
+	top: 55px;
+}
+.bola3{
+	position: absolute;
+	left: 620px;
+	top: 263px;
+}
